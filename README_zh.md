@@ -35,7 +35,8 @@
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Grayscale%20Value%20Statistics.jpg)
 
 ## 3.2 WalnutData类别实例分布
-训练集、验证集和测试集划分的比例为7:2:1，分别为21167张、4902张和2470张。另外，在类别数量分布安排中，我们尽可能保证其分布的相似性和均衡性，数据集划分后的类别实例分布信息如下图所示。
+训练集、验证集和测试集划分的比例为7:2:1，分别为21167张、6048张和3025张。另外，在类别数量分布安排中，我们尽可能保证其分布的相似性和均衡性，数据集划分后的类别实例分布信息如下图所示。
+![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
 
 
 
