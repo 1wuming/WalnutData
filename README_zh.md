@@ -27,8 +27,7 @@
 
 下图展示了WalnutData中几张数据集示例：
 
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="My Photo" width="200"/>
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg)
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData">
 
 # 3. 数据集分析
 
@@ -44,6 +43,7 @@
 
 下图为数据集中注释框的分布情况
 
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData" width="200"/>
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg)
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg)
 
