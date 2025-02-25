@@ -43,9 +43,9 @@
 
 下图为数据集中注释框的分布情况
 
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData" width="200"/>
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg)
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg)
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg" alt="labels" width="500"/>
+
 
 
 
