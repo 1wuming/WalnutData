@@ -25,6 +25,8 @@
 |   验证集  |     175   |  59371   |    79709     |   
 |   测试集  |    74     |  30047   |    41020     |   
 
+下图展示WalnutData中一些示例：
+![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg)
 
 # 3. 数据集分析
 
