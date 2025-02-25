@@ -25,7 +25,8 @@
 |   验证集  |     175   |  59371   |    79709     |   
 |   测试集  |    74     |  30047   |    41020     |   
 
-下图展示WalnutData中一些示例：
+下图展示了WalnutData中几张数据集示例：
+
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg)
 
 # 3. 数据集分析
@@ -40,16 +41,10 @@
 训练集、验证集和测试集划分的比例为7:2:1，分别为21167张、6048张和3025张。另外，在类别数量分布安排中，我们尽可能保证其分布的相似性和均衡性，数据集划分后的类别实例分布信息如下图所示。
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
 
-
-
-
-
-
 下图为数据集中注释框的分布情况
 
-![image](https://user-images.githubusercontent.com/51520993/230016724-060d4f17-3e00-4416-a3ca-bf73fa230b58.png)
-![image](https://user-images.githubusercontent.com/51520993/230016663-57becf5c-fc60-42d2-b2b0-3dc55af5cf13.png)
-![image](https://user-images.githubusercontent.com/51520993/230016547-1f1c81db-013c-4608-9b6e-366c93c157de.png)
+![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg)
+![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg)
 
 
 
