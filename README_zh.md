@@ -95,11 +95,11 @@
 |     Method         |     Backbone    |     Epoch    |     Batch    |     AP（%）    |     AP50（%）    |     AP75（%）    |
 |-------------------|----------------|--------------|--------------|----------------|----------------|----------------|
 |     YOLOX-s     | CSPDarknet   | 300          | 4            | 45.4           | 72.8           | 52.9           |
-|     YOLOX-l    |  CSPDarknet   | -            | -            | 51.6           | 79.1           | 62.7           |
-|     YOLOX-x     |  CSPDarknet   | -            | -            | 54.9           | 82.7           | 67.5           |
+|     YOLOX-l    |  CSPDarknet   | 300            | 4            | 51.6           | 79.1           | 62.7           |
+|     YOLOX-x     |  CSPDarknet   | 300           | 4            | 54.9           | 82.7           | 67.5           |
 |     DETR      | ResNet50       | 150          | 8            | 14.1           | 34.7           | 8.0            |
-|     Deformable DETR] | ResNet50        | 50           | 4            | 49.2           | 76.8           | 59.7           |
-|     DINO-4scale      |   ResNet50       | -            | 12           | 50.3           | 77.0           | 61.7           |
+|     Deformable DETR | ResNet50        | 50           | 4            | 49.2           | 76.8           | 59.7           |
+|     DINO-4scale      |   ResNet50       | 12            | 4           | 50.3           | 77.0           | 61.7           |
 |     Conditional DETR |   ResNet50    | 50           | 8            | 37.9           | 65.5           | 40.9           |
 
 说明：对于原数据中 YOLOX 那行后面没有完整列出 Epoch 和 Batch 信息的行，这里在对应列填写了“-”表示缺失；DINO 那行 Epoch 数据缺失，也进行了类似处理。 
