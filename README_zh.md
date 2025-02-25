@@ -27,7 +27,7 @@
 
 下图展示了WalnutData中几张数据集示例：
 
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg, width="21px">)
+![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg)
 
 # 3. 数据集分析
 
