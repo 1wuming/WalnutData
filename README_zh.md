@@ -20,13 +20,14 @@
 
 
 |    名称   |  大尺寸目标数量（个） |   中尺寸目标数量（个）  | 小尺寸目标数量（个） | 
-|----------|-----------|------------|---------------------|
-|   训练集  |     526   |  211669  |   283617    | 
+|-----------|-----------|----------|--------------|
+|   训练集  |     526   |  211669  |    283617    | 
 |   验证集  |     175   |  59371   |    79709     |   
-|   测试集  |    74     |  30047   |    41020     |   
+|   测试集  |     74    |  30047   |    41020     |   
 
 下图展示了WalnutData中几张数据集示例：
 
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="My Photo" width="200"/>
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg)
 
 # 3. 数据集分析
