@@ -1,45 +1,13 @@
-# 1. M<sup>4</sup>SFWD 下载地址
-我们提供了三种方式来获取M<sup>4</sup>SFWD：
-  - **IEEEDataPort**, 下载地址为： https://ieee-dataport.org/documents/multiple-scenarios-multiple-weather-conditions-multiple-lighting-conditions-and-multiple
-  - **Roboflow**，本数据集的地址为:https://universe.roboflow.com/yunnan-university/synthetic-fire-smoke
+# 1. WalnutData 下载地址
+我们提供了两种方式来获取WalnutData：
+  - **IEEEDataPort**：https://ieee-dataport.org/documents/walnutdata-construction-green-walnut-dataset-based-uav-and-model-evaluation
 
-  - **云端硬盘**，我们针对不同的目标检测算法（coco, darknet, yolov6, yolov7, yolov8），提供了不同标注格式的数据.
-
-      - **谷歌云盘**的下载链接为：
-          - [**coco**](https://drive.google.com/file/d/12iLl-uDIrAuZ1-2vmbeP3bDcOQXB4Mds/view?usp=share_link), 
-
-          - [**darknet**](https://drive.google.com/file/d/1wSjo9qVpwEntL9Olt_y7xrmH-0tuK8Fp/view?usp=share_link), 
-
-          - [**yolov6**](https://drive.google.com/file/d/1FB7Pjnz0DqXvxVUcfvK2lwPZssUOQguH/view?usp=share_link), 
-
-          - [**yolov7**](https://drive.google.com/file/d/1eVQ2OG1NXEHaheuTuTl6kPz7NlpEy9wx/view?usp=share_link),
- 
-          - [**yolov8**](https://drive.google.com/file/d/1VRJxqXZZibQap9TmL-z-caNJsnd5Y70q/view?usp=share_link), 
-
-          - [**different_weather_and_time**](https://drive.google.com/file/d/1i5HDMOHKaDZNrGixJUGSSFJLgrrHZEb-/view?usp=share_link)。 
-
-      - **百度云盘**的下载链接为：
-      
-         - **coco:**    https://pan.baidu.com/s/18w33GJtQar0gfOM3ocuR1A?pwd=yqv8 提取码：yqv8 
-
-        - **darknet:**  https://pan.baidu.com/s/1jqzTn93ixUf_TXhrCRaW4w?pwd=c8dx 提取码：c8dx 
-
-        - **yolov6:**   https://pan.baidu.com/s/1X_2mmSyAMCshnYJIOeQnYg?pwd=fk3r 提取码：fk3r 
+  - **百度网盘**：
   
-        - **yolov7:**   https://pan.baidu.com/s/1HgC5YpEtF3VJgLt5zRD_Uw?pwd=q89a 提取码：q89a 
+# 2. 数据集构建
+我们分别在2024年7月18日至9月14日之间对8块核桃样本地进行数据采集，这些样本地均处于中国云南省大理白族自治州漾濞县。另外，为了获取光照情况的变化，我们在9点至19点之间进行拍摄。数据采集设备统一使用DJI Matrice 300 RTK无人机和Zenmuse P1（35mm F2.8）镜头，无人机全程按照预先规划的航线进行从上往下的角度（-90°）拍摄，飞行路径完全涵盖每块样本地的范围。为了减少飞行高度过高与相机运动过快对成像质量的影响，我们在保证飞行安全的情况下，将飞行速度设置在1-3m/s之间，飞行高度设置在12-30m之间。
 
-        - **yolov8:**   https://pan.baidu.com/s/1VDbQBMD3SamF0a7_r9aLow?pwd=2rsq 提取码：2rsq 
-
-         - **different_weather_and_time:**  https://pan.baidu.com/s/1O4QKkeJubQa6lZKRdnwR6w?pwd=txil 提取码：txil 
-  
-# 2. 场景介绍
-为了实现森林火灾的真实模拟，我们运用了虚幻引擎5来构建多样化的森林场景。
-
-虚幻引擎5可满足现实世界中森林的地形、气象、时间、光影、纹理等细节，也可模拟不同时期的多尺度森林火灾，非常适合合成数据集的构建。
-
-我们通过虚幻引擎5搭建了八个不同地形的场景，包含晴天、雾天和雨雪天三种气象条件，以及白天、傍晚和夜晚三个不同的时间。
-
-下表为原始数据的详细信息。
+由于无人机航拍图像分辨率（8192×5460像素）过大，不利于模型的训练，因此本研究将筛选后的原始图像均按照步长为512进行图像切割，切割后的图像分辨率均为1024×1024像素。经过上述步骤的处理，最终形成了本研究的数据集，共30240张图像。
 
 
 |           |     Scenario    |     Resolution    |     FPS     |     Duration       |     Size        |     Weather      |     The number of objects    |     Description                                                 |
