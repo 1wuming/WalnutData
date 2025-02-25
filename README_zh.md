@@ -1,4 +1,4 @@
-
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="Category Examples WalnutData">
 # 1. WalnutData 下载地址
 我们提供了两种方式来获取WalnutData：
   - **IEEEDataPort**：https://ieee-dataport.org/documents/walnutdata-construction-green-walnut-dataset-based-uav-and-model-evaluation
@@ -43,12 +43,13 @@
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
 
 下面两张图为数据集中注释框的分布情况：
+
 <img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
 <img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg" alt="labels" width="500"/>
 
 # 4. 实验结果
 
-## 4.1 M<sup>4</sup>SFWD 在单阶段目标检测算法的实验结果
+## 4.1 WalnutData在一阶段目标检测算法的实验结果
 
 |     Model         |     #Param.    |     Flops     |     Weight Size    |     AP50:95    |     AP50    |     APFire    |     APSmoke    |     Precision    |     Recall    |     F1-socre    |
 |-------------------|----------------|---------------|--------------------|----------------|-------------|---------------|----------------|------------------|---------------|-----------------|
@@ -97,5 +98,5 @@
 |     YOLOv5s        |     7.2M       |     16.5G    |     14.4Mb         |     43.7       |     86.4    |     87.9      |     84.9       |     83.7         |     80.9      |     82.3        |
 |     YOLOv4-tiny    |     -          |     6.8G     |     23.5Mb         |     -          |     64.5    |     51.9      |     77.1       |     80           |     58        |     67.2        |
 |     YOLOv3-tiny    |     -          |     5.4G     |     34.7Mb         |     -          |     71.7    |     69.6      |     73.9       |     76           |     72        |     73.9        |
-数据采集工作照片：
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Homepage.jpg" alt="work">
+
+
