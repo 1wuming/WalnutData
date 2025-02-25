@@ -1,3 +1,4 @@
+
 # 1. WalnutData 下载地址
 我们提供了两种方式来获取WalnutData：
   - **IEEEDataPort**：https://ieee-dataport.org/documents/walnutdata-construction-green-walnut-dataset-based-uav-and-model-evaluation
@@ -41,14 +42,9 @@
 训练集、验证集和测试集划分的比例为7:2:1，分别为21167张、6048张和3025张。另外，在类别数量分布安排中，我们尽可能保证其分布的相似性和均衡性，数据集划分后的类别实例分布信息如下图所示。
 ![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
 
-下图为数据集中注释框的分布情况
-
+下面两张图为数据集中注释框的分布情况：
 <img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
 <img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg" alt="labels" width="500"/>
-
-
-
-
 
 # 4. 实验结果
 
@@ -101,4 +97,5 @@
 |     YOLOv5s        |     7.2M       |     16.5G    |     14.4Mb         |     43.7       |     86.4    |     87.9      |     84.9       |     83.7         |     80.9      |     82.3        |
 |     YOLOv4-tiny    |     -          |     6.8G     |     23.5Mb         |     -          |     64.5    |     51.9      |     77.1       |     80           |     58        |     67.2        |
 |     YOLOv3-tiny    |     -          |     5.4G     |     34.7Mb         |     -          |     71.7    |     69.6      |     73.9       |     76           |     72        |     73.9        |
-
+数据采集工作照片：
+<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Homepage.jpg" alt="work">
