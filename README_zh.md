@@ -17,7 +17,7 @@ WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受�
 
 <div align="center">
 
-[中文](https://github.com/1wuming/WalnutData/blob/main/README_zh.md) | [English](https://github.com/1wuming/WalnutData/blob/main/README_en.md) <br>
+[中文](https://github.com/1wuming/WalnutData/blob/WalnutData/README_zh.md) | [English](https://github.com/1wuming/WalnutData/blob/WalnutData/README_en.md) <br>
 </div>
 
 </div>
@@ -45,7 +45,7 @@ WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受�
 
 下图展示了WalnutData中几张数据集示例：
 
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData">
+<img src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData">
 
 # 3. 数据集分析
 
@@ -53,17 +53,17 @@ WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受�
 训练集、验证集和测试集的平均灰度值分别为107.316、108.048、107.544，低于中间灰度值127.5的占比分别为76.31%、75.59%、75.81%，由此说明WalnutData中大部分青皮核桃是处于逆光或被树叶遮挡在光线较暗的地方。
 
 下图为WalnutData的平均灰度值分布。
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Grayscale%20Value%20Statistics.jpg)
+![image](https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Grayscale%20Value%20Statistics.jpg)
 
 ## 3.2 WalnutData类别实例分布
 训练集、验证集和测试集划分的比例为7:2:1，分别为21167张、6048张和3025张。另外，在类别数量分布安排中，我们尽可能保证其分布的相似性和均衡性，数据集划分后的类别实例分布信息如下图所示。
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
+![image](https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
 
 下面两张图为数据集中注释框的分布情况：
   <div align="center">
     
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg" alt="labels" width="500"/>
+<img src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
+<img src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/labels.jpg" alt="labels" width="500"/>
 
 </div>
 
