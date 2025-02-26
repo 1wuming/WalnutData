@@ -14,13 +14,8 @@ WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受�
 
 [中文](https://github.com/1wuming/WalnutData/blob/main/README_zh.md) | [English](https://github.com/1wuming/WalnutData/blob/main/README_en.md) <br>
 
-<div>
-  
+</div>
 
-
-
-
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="Category Examples WalnutData">
 
 # 1. WalnutData 下载地址
 我们提供了两种方式来获取WalnutData（13.87G）：
