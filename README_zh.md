@@ -5,7 +5,7 @@ WalnutData数据集
 <img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="Category Examples WalnutData">
 
 # 1. WalnutData 下载地址
-我们提供了两种方式来获取WalnutData：
+我们提供了两种方式来获取WalnutData（13.87G）：
   - **IEEEDataPort**：https://ieee-dataport.org/documents/walnutdata-construction-green-walnut-dataset-based-uav-and-model-evaluation
 
   - **百度网盘**：https://pan.baidu.com/s/1ZQEr6YJW-V_cQ3sNrZKBEA?pwd=mt9m 提取码: mt9m 
