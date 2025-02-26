@@ -11,8 +11,8 @@ WalnutData数据集
 WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受到正面光照且未被遮挡。（b）为A2类别，即青皮核桃受到逆光且未被遮挡。（c）为B1类别，即青皮核桃受到正面光且被遮挡。（d）为B2类别，即青皮核桃受到逆光且被遮挡。
 
   <p>
-    <a href="https://github.com/1wuming/WalnutData/blob/main/README_zh.md" target="README_zh">
-      <img width="100%" src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="WalnutData"></a>
+    <a href="https://github.com/1wuming/WalnutData/blob/WalnutData/README_zh.md" target="README_zh">
+      <img width="100%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="WalnutData"></a>
   </p>
 
 <div align="center">
