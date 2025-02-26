@@ -11,13 +11,13 @@ With the gradual maturity of UAV technology, it can provide extremely powerful s
 Examples of the categories in WalnutData are shown in the following figure. (a) represents category A1, that is, the green walnuts are illuminated from the front and not occluded. (b) represents category A2, that is, the green walnuts are backlit and not occluded. (c) represents category B1, that is, the green walnuts are illuminated from the front and occluded. (d) represents category B2, that is, the green walnuts are backlit and occluded. 
 
   <p>
-    <a href="https://github.com/1wuming/WalnutData/blob/main/README_zh.md" target="README_zh">
-      <img width="100%" src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="WalnutData"></a>
+    <a href="https://github.com/1wuming/WalnutData/blob/WalnutData/README_zh.md" target="README_zh">
+      <img width="100%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="WalnutData"></a>
   </p>
 
 <div align="center">
 
-[中文](https://github.com/1wuming/WalnutData/blob/main/README_zh.md) | [English](https://github.com/1wuming/WalnutData/blob/main/README_en.md) <br>
+[中文](https://github.com/1wuming/WalnutData/blob/WalnutData/README_zh.md) | [English](https://github.com/1wuming/WalnutData/blob/WalnutData/README_en.md) <br>
 </div>
 
 </div>
@@ -45,7 +45,7 @@ The following table shows the detailed information of WalnutData.
 
 The following figure shows several examples of the dataset in WalnutData: 
 
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData">
+<img src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Annotation%20Examples%20of%20WalnutData.jpg" alt="Annotation Examples WalnutData">
 
 # 3. Dataset Analysis
 
@@ -54,17 +54,17 @@ The average grayscale values of the training set, validation set, and test set a
 
 The following figure shows the distribution of the average grayscale values of WalnutData. 
 
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Grayscale%20Value%20Statistics.jpg)
+![image](https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Grayscale%20Value%20Statistics.jpg)
 
 ## 3.2 Distribution of Category Instances in WalnutData
 The proportions of the training set, validation set, and test set are 7:2:1, with the numbers of images being 21,167, 6,048, and 3,025 respectively. In addition, in the arrangement of the distribution of the number of categories, we have tried our best to ensure the similarity and balance of the distribution. The information on the distribution of category instances after the dataset is divided is shown in the following figure.  
 
-![image](https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
+![image](https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Instance%20Distribution%20Information%20After%20the%20Dataset%20Is%20Partitioned.jpg)
 
 The following two figures show the distribution of the annotation boxes in the dataset:
 
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
-<img src="https://github.com/1wuming/WalnutData/blob/main/README_IMAGES/labels.jpg" alt="labels" width="500"/>
+<img src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/labels_correlogram.jpg" alt="labels_correlogram" width="500"/>
+<img src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/labels.jpg" alt="labels" width="500"/>
 
 # 4. Experimental Results
 
