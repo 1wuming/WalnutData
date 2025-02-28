@@ -24,10 +24,11 @@ Examples of the categories in WalnutData are shown in the following figure. (a) 
 
 
 # 1. The download address of WalnutData
-We provide two ways to obtain WalnutData (13.87G). ：
+We provide four ways to obtain WalnutData (13.87G). ：
   - **IEEEDataPort**：https://ieee-dataport.org/documents/walnutdata-construction-green-walnut-dataset-based-uav-and-model-evaluation
-
-  - **Baidu Netdisk**：https://pan.baidu.com/s/1ZQEr6YJW-V_cQ3sNrZKBEA?pwd=mt9m 提取码: mt9m 
+  - **Hugging Face**:https://huggingface.co/datasets/nanmao/WalnutData/resolve/main/WalnutData.zip
+  - **Baidu Netdisk**：https://pan.baidu.com/s/1ZQEr6YJW-V_cQ3sNrZKBEA?pwd=mt9m 提取码: mt9m
+  - **Kaggle**：
 
   
 # 2. Construction of the Dataset
