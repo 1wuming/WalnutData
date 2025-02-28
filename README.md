@@ -143,3 +143,16 @@ The following table shows the evaluation of a series of mainstream algorithms on
 |     Cascade R-CNN| ResNet101           | 24           | 8            | 58.9           | 85.9           | 72.5           | 52.7                | 65.7                 | 74.5                |
 |     Grid R-CNN| ResNet101        |24          | 8            | 57.5           | 83.1           | 70.9           | 51.2                | 64.9                 | 75.3                |
 |     Sparse R-CNN| ResNet101    | 36           | 8            | 46.9           | 71.2           | 57.7           | 42.1                | 52.5                 | 59.9                |
+
+
+# 5. Cite
+BibTeX formatted citation：
+@misc{wu2025walnutdatauavremotesensing, <br>
+      &emsp;&emsp;title={WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation}, <br>
+      &emsp;&emsp;author={Mingjie Wu and Chenggui Yang and Huihua Wang and Chen Xue and Yibo Wang and Haoyu Wang and Yansong Wang and Can Peng and Yuqi Han and Ruoyu Li and Lijun Yun and Zaiqing Chen and Songfan Shi and Luhao Fang and Shuyi Wan and Tingfeng Li and Shuangyao Liu and Haotian Feng},<br>
+     &emsp;&emsp; year={2025},<br>
+      &emsp;&emsp;eprint={2502.20092},<br>
+      &emsp;&emsp;archivePrefix={arXiv},<br>
+     &emsp;&emsp; primaryClass={cs.CV},<br>
+     &emsp;&emsp; url={https://arxiv.org/abs/2502.20092}, <br>
+}
