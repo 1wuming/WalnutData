@@ -155,5 +155,5 @@ BibTeX formatted citation：
       &emsp;&emsp;eprint={2502.20092},<br>
       &emsp;&emsp;archivePrefix={arXiv},<br>
      &emsp;&emsp; primaryClass={cs.CV},<br>
-     &emsp;&emsp; url={https://arxiv.org/abs/2502.20092\}, <br>
+     &emsp;&emsp; url={https://arxiv.org/abs/2502.20092}, <br>
 }
