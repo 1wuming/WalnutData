@@ -147,6 +147,7 @@ The following table shows the evaluation of a series of mainstream algorithms on
 
 # 5. Cite
 BibTeX formatted citation：
+
 @misc{wu2025walnutdatauavremotesensing, <br>
       &emsp;&emsp;title={WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation}, <br>
       &emsp;&emsp;author={Mingjie Wu and Chenggui Yang and Huihua Wang and Chen Xue and Yibo Wang and Haoyu Wang and Yansong Wang and Can Peng and Yuqi Han and Ruoyu Li and Lijun Yun and Zaiqing Chen and Songfan Shi and Luhao Fang and Shuyi Wan and Tingfeng Li and Shuangyao Liu and Haotian Feng},<br>
