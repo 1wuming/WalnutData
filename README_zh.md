@@ -24,11 +24,11 @@ WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受�
 
 
 # 1. WalnutData 下载地址
-我们提供了两种方式来获取WalnutData（13.87G）：
+我们提供了四种方式来获取WalnutData（13.87G）：
   - **IEEEDataPort**：https://ieee-dataport.org/documents/walnutdata-construction-green-walnut-dataset-based-uav-and-model-evaluation
-
-  - **百度网盘**：https://pan.baidu.com/s/1ZQEr6YJW-V_cQ3sNrZKBEA?pwd=mt9m 提取码: mt9m 
-
+  - **Hugging Face**:https://huggingface.co/datasets/nanmao/WalnutData/resolve/main/WalnutData.zip
+  - **Baidu Netdisk**：https://pan.baidu.com/s/1ZQEr6YJW-V_cQ3sNrZKBEA?pwd=mt9m 提取码: mt9m
+  - **Kaggle**：
   
 # 2. 数据集构建
 我们分别在2024年7月18日至9月14日之间对8块核桃样本地进行数据采集，这些样本地均处于中国云南省大理白族自治州漾濞县。另外，为了获取光照情况的变化，我们在9点至19点之间进行拍摄。数据采集设备统一使用DJI Matrice 300 RTK无人机和Zenmuse P1（35mm F2.8）镜头，无人机全程按照预先规划的航线进行从上往下的角度（-90°）拍摄，飞行路径完全涵盖每块样本地的范围。为了减少飞行高度过高与相机运动过快对成像质量的影响，我们在保证飞行安全的情况下，将飞行速度设置在1-3m/s之间，飞行高度设置在12-30m之间。
