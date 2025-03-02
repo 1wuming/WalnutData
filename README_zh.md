@@ -145,15 +145,14 @@ WalnutData类别示例如下图所示。（a）为A1类别，即青皮核桃受�
 
 
 # 5.引用方式
-WalnutData数据集的引用方式（Bib TeX格式）：
-
-@misc{wu2025walnutdatauavremotesensing, <br>
-      &emsp;&emsp;title={WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation}, <br>
-      &emsp;&emsp;author={Mingjie Wu and Chenggui Yang and Huihua Wang and Chen Xue and Yibo Wang and Haoyu Wang and Yansong Wang and Can Peng and Yuqi Han and Ruoyu Li and Lijun Yun and Zaiqing Chen and Songfan Shi and Luhao Fang and Shuyi Wan and Tingfeng Li and Shuangyao Liu and Haotian Feng},<br>
-     &emsp;&emsp; year={2025},<br>
-      &emsp;&emsp;eprint={2502.20092},<br>
-      &emsp;&emsp;archivePrefix={arXiv},<br>
-     &emsp;&emsp; primaryClass={cs.CV},<br>
-     &emsp;&emsp; url={https://arxiv.org/abs/2502.20092}, <br>
+```
+@misc{wu2025walnutdatauavremotesensing, 
+      title={WalnutData: A UAV Remote Sensing Dataset of Green Walnuts and Model Evaluation}, 
+      author={Mingjie Wu and Chenggui Yang and Huihua Wang and Chen Xue and Yibo Wang and Haoyu Wang and Yansong Wang and Can Peng and Yuqi Han and Ruoyu Li and Lijun Yun and Zaiqing Chen and Songfan Shi and Luhao Fang and Shuyi Wan and Tingfeng Li and Shuangyao Liu and Haotian Feng},
+      year={2025},
+      eprint={2502.20092},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.20092}, 
 }
-
+```
