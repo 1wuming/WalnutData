@@ -15,6 +15,8 @@ Examples of the categories in WalnutData are shown in the following figure. (a) 
       <img width="100%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="WalnutData"></a>
   </p>
 
+ <img width="100%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/fig 1.jpg" alt="WalnutData"></a>
+
 <div align="center">
 
 [中文](https://github.com/1wuming/WalnutData/blob/WalnutData/README_zh.md) | [English](https://github.com/1wuming/WalnutData/blob/WalnutData/README_en.md) <br>
