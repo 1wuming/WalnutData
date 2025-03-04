@@ -8,14 +8,14 @@ WalnutData
 
 With the gradual maturity of UAV technology, it can provide extremely powerful support for smart agriculture and precise monitoring. Currently, there is no dataset related to green walnuts in the field of agricultural computer vision. Therefore, in order to promote the algorithm design in the field of agricultural computer vision, we used UAV to collect remote sensing data from 8 walnut sample plots. Considering that green walnuts have the characteristics of being affected by various lighting conditions and being occluded, we constructed a large-scale dataset with a higher fine-grained target feature - WalnutData. This dataset contains a total of 30,240 images and 7,062,080 instances, and there are 4 target categories: illuminated from the front and not occluded (A1), backlit and not occluded (A2), illuminated from the front and occluded (B1), and backlit and occluded (B2). We provide three types of labels: VOC, COCO, and YOLO, which are suitable for many currently mainstream object detection models. Then, we evaluated many mainstream algorithms on WalnutData and took these evaluation results as the baseline standard.The link to the paper of the WalnutData dataset: **https://doi.org/10.48550/arXiv.2502.20092**. 
 
+<img width="50%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/fig 1.jpg" alt="WalnutData"></a>
+
 Examples of the categories in WalnutData are shown in the following figure. (a) represents category A1, that is, the green walnuts are illuminated from the front and not occluded. (b) represents category A2, that is, the green walnuts are backlit and not occluded. (c) represents category B1, that is, the green walnuts are illuminated from the front and occluded. (d) represents category B2, that is, the green walnuts are backlit and occluded. 
 
   <p>
     <a href="https://github.com/1wuming/WalnutData/blob/WalnutData/README_zh.md" target="README_zh">
       <img width="100%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/Category%20Examples%20of%20WalnutData.jpg" alt="WalnutData"></a>
   </p>
-
- <img width="100%" src="https://github.com/1wuming/WalnutData/blob/WalnutData/README_IMAGES/fig 1.jpg" alt="WalnutData"></a>
 
 <div align="center">
 
